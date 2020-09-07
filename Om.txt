@@ -6,3 +6,5 @@ My mom is great.
 My Kid is awesome.
 My wife is very kind hearted.
 My Sisters are very smart.
+
+Data to merge from Branch 2 to Master
